@@ -1,0 +1,7 @@
+Recommended VS Code extensions:
+- ES7+ React/Redux/React-Native snippets
+- Prettier - Code formatter
+- JavaScript (ES6) code snippets
+- DotENV
+- REST Client (optional)
+- MongoDB for VS Code (optional)

@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "passwordHash": "$2a$10$e0NRy1lJb0qVj6o6zZqH6u1Y8bK8Yqv5u3QWq2w/1f8sZ3KcQp9y",
+      "skills": [
+        "spanish",
+        "esl"
+      ],
+      "bio": "I teach Spanish basics.",
+      "createdAt": "2025-10-01T00:00:00Z"
+    },
+    {
+      "id": "u2",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "passwordHash": "$2a$10$e0NRy1lJb0qVj6o6zZqH6u1Y8bK8Yqv5u3QWq2w/1f8sZ3KcQp9y",
+      "skills": [
+        "guitar",
+        "music"
+      ],
+      "bio": "Guitar teacher.",
+      "createdAt": "2025-10-02T00:00:00Z"
+    },
+    {
+      "id": "u3",
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "passwordHash": "$2a$10$e0NRy1lJb0qVj6o6zZqH6u1Y8bK8Yqv5u3QWq2w/1f8sZ3KcQp9y",
+      "skills": [
+        "cooking",
+        "photography"
+      ],
+      "bio": "Love to teach creative hobbies.",
+      "createdAt": "2025-10-03T00:00:00Z"
+    }
+  ],
+  "skills": [
+    {
+      "id": "s1",
+      "title": "Learn Spanish for beginners",
+      "category": "Language",
+      "userId": "u1",
+      "createdAt": "2025-10-05T00:00:00Z"
+    },
+    {
+      "id": "s2",
+      "title": "Master the Guitar",
+      "category": "Music",
+      "userId": "u2",
+      "createdAt": "2025-10-06T00:00:00Z"
+    },
+    {
+      "id": "s3",
+      "title": "Photography Basics",
+      "category": "Art",
+      "userId": "u3",
+      "createdAt": "2025-10-07T00:00:00Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "c1",
+      "senderId": "u1",
+      "receiverId": "u2",
+      "message": "Hey Bob! Interested in learning Spanish?",
+      "timestamp": "2025-11-04T10:00:00Z"
+    },
+    {
+      "id": "c2",
+      "senderId": "u2",
+      "receiverId": "u1",
+      "message": "Sure Alice! I'd love to.",
+      "timestamp": "2025-11-04T10:01:00Z"
+    },
+    {
+      "id": "c3",
+      "senderId": "u3",
+      "receiverId": "u1",
+      "message": "Hi Alice, can you help me with ESL?",
+      "timestamp": "2025-11-04T10:02:00Z"
+    }
+  ],
+  "messages": []
+}

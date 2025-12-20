@@ -1,0 +1,118 @@
+Date : 2025-11-28 11:22:41
+Directory : c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload
+Total : 66 files,  26523 codes, 189 comments, 449 blanks, all 27161 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          8 |     23,711 |          0 |          7 |     23,718 |
+| JavaScript JSX |         23 |      1,804 |         74 |        218 |      2,096 |
+| JavaScript     |         21 |        837 |         89 |        174 |      1,100 |
+| PostCSS        |          5 |         62 |          2 |         12 |         76 |
+| HTML           |          4 |         61 |         24 |          4 |         89 |
+| Markdown       |          1 |         38 |          0 |         33 |         71 |
+| Dotenv         |          3 |          9 |          0 |          1 |         10 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |         66 |     26,523 |        189 |        449 |     27,161 |
+| backend                                                                                                  |         17 |      3,276 |         69 |        151 |      3,496 |
+| backend (Files)                                                                                          |          7 |      2,705 |         27 |         41 |      2,773 |
+| backend\middleware                                                                                       |          2 |         56 |         12 |         17 |         85 |
+| backend\models                                                                                           |          1 |         14 |          0 |          3 |         17 |
+| backend\public                                                                                           |          3 |        109 |          2 |         11 |        122 |
+| backend\routes                                                                                           |          3 |        347 |         27 |         69 |        443 |
+| backend\scripts                                                                                          |          1 |         45 |          1 |         10 |         56 |
+| frontend                                                                                                 |         27 |      5,071 |         88 |        190 |      5,349 |
+| frontend (Files)                                                                                         |          8 |      3,612 |          0 |          8 |      3,620 |
+| frontend\src                                                                                             |         19 |      1,459 |         88 |        182 |      1,729 |
+| frontend\src (Files)                                                                                     |          4 |        121 |         14 |         20 |        155 |
+| frontend\src\components                                                                                  |          5 |        297 |         21 |         44 |        362 |
+| frontend\src\context                                                                                     |          2 |         62 |          2 |         20 |         84 |
+| frontend\src\pages                                                                                       |          7 |        971 |         41 |         93 |      1,105 |
+| frontend\src\utils                                                                                       |          1 |          8 |         10 |          5 |         23 |
+| frontend_old                                                                                             |         22 |     18,176 |         32 |        108 |     18,316 |
+| frontend_old (Files)                                                                                     |          4 |     17,649 |          1 |         36 |     17,686 |
+| frontend_old\public                                                                                      |          2 |         45 |         23 |          2 |         70 |
+| frontend_old\src                                                                                         |         16 |        482 |          8 |         70 |        560 |
+| frontend_old\src (Files)                                                                                 |         12 |        351 |          8 |         51 |        410 |
+| frontend_old\src\pages                                                                                   |          4 |        131 |          0 |         19 |        150 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                 | language       | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\.env                               | Dotenv         |          6 |          0 |          0 |          6 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\chat.js                            | JavaScript     |         68 |          9 |         13 |         90 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\chatModel.js                       | JavaScript     |         29 |          1 |          3 |         33 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\db.json                            | JSON           |         87 |          0 |          0 |         87 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\middleware\auth.js                 | JavaScript     |         24 |          6 |          8 |         38 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\middleware\uploadAvatar.js         | JavaScript     |         32 |          6 |          9 |         47 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\models\User.js                     | JavaScript     |         14 |          0 |          3 |         17 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\package-lock.json                  | JSON           |      2,398 |          0 |          1 |      2,399 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\package.json                       | JSON           |         29 |          0 |          1 |         30 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\public\app.js                      | JavaScript     |         84 |          2 |          8 |         94 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\public\index.html                  | HTML           |         16 |          0 |          1 |         17 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\public\styles.css                  | PostCSS        |          9 |          0 |          2 |         11 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\routes\auth.js                     | JavaScript     |         98 |          9 |         23 |        130 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\routes\messages.js                 | JavaScript     |        172 |          9 |         28 |        209 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\routes\users.js                    | JavaScript     |         77 |          9 |         18 |        104 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\scripts\seedUsers.js               | JavaScript     |         45 |          1 |         10 |         56 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\backend\server.js                          | JavaScript     |         88 |         17 |         23 |        128 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\.env                              | Dotenv         |          2 |          0 |          0 |          2 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\.env.example                      | Dotenv         |          1 |          0 |          1 |          2 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\index.html                        | HTML           |         12 |          0 |          1 |         13 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\package-lock.json                 | JSON           |      3,548 |          0 |          1 |      3,549 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\package.json                      | JSON           |         26 |          0 |          1 |         27 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\postcss.config.cjs                | JavaScript     |          6 |          0 |          1 |          7 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\App.jsx                       | JavaScript JSX |         60 |          7 |          8 |         75 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\api.js                        | JavaScript     |         39 |          6 |          9 |         54 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\components\ChatSidebar.jsx    | JavaScript JSX |        149 |          8 |         18 |        175 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\components\Navbar.jsx         | JavaScript JSX |         89 |         11 |         15 |        115 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\components\PageWrapper.jsx    | JavaScript JSX |         17 |          1 |          4 |         22 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\components\ProtectedRoute.jsx | JavaScript JSX |          9 |          0 |          4 |         13 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\components\UsersList.jsx      | JavaScript JSX |         33 |          1 |          3 |         37 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\context\SocketContext.jsx     | JavaScript JSX |         38 |          0 |         12 |         50 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\context\UserContext.jsx       | JavaScript JSX |         24 |          2 |          8 |         34 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\index.css                     | PostCSS        |          4 |          1 |          1 |          6 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\main.jsx                      | JavaScript JSX |         18 |          0 |          2 |         20 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\Chat.jsx                | JavaScript JSX |        196 |         12 |         17 |        225 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\Dashboard.jsx           | JavaScript JSX |        127 |          4 |          9 |        140 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\Landing.jsx             | JavaScript JSX |         66 |          7 |          9 |         82 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\Login.jsx               | JavaScript JSX |        107 |          1 |         11 |        119 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\Profile.jsx             | JavaScript JSX |        253 |         11 |         25 |        289 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\ProfilePublic.jsx       | JavaScript JSX |         86 |          6 |         10 |        102 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\pages\Register.jsx            | JavaScript JSX |        136 |          0 |         12 |        148 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\src\utils\getAvatarUrl.js         | JavaScript     |          8 |         10 |          5 |         23 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\tailwind.config.cjs               | JavaScript     |          5 |          0 |          1 |          6 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend\vite.config.js                    | JavaScript     |         12 |          0 |          2 |         14 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\README.md                     | Markdown       |         38 |          0 |         33 |         71 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\index.html                    | HTML           |         13 |          1 |          1 |         15 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\package-lock.json             | JSON           |     17,559 |          0 |          1 |     17,560 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\package.json                  | JSON           |         39 |          0 |          1 |         40 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\public\index.html             | HTML           |         20 |         23 |          1 |         44 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\public\manifest.json          | JSON           |         25 |          0 |          1 |         26 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\App.css                   | PostCSS        |         33 |          0 |          6 |         39 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\App.js                    | JavaScript     |         10 |          0 |          3 |         13 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\App.jsx                   | JavaScript JSX |          5 |          0 |          2 |          7 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\App.test.js               | JavaScript     |          7 |          0 |          2 |          9 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\AuthApp.jsx               | JavaScript JSX |        115 |          0 |         19 |        134 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\ChatPage.jsx              | JavaScript JSX |        145 |          3 |         11 |        159 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\index.css                 | PostCSS        |         12 |          0 |          2 |         14 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\index.js                  | JavaScript     |          6 |          0 |          2 |          8 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\logo.svg                  | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\pages\Dashboard.jsx       | JavaScript JSX |         60 |          0 |         10 |         70 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\pages\Home.jsx            | JavaScript JSX |         12 |          0 |          1 |         13 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\pages\Login.jsx           | JavaScript JSX |         28 |          0 |          4 |         32 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\pages\Register.jsx        | JavaScript JSX |         31 |          0 |          4 |         35 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\reportWebVitals.js        | JavaScript     |         12 |          0 |          2 |         14 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\setupTests.js             | JavaScript     |          1 |          4 |          1 |          6 |
+| c:\Users\Nihan P\Desktop\on process\skill-swap_final_reupload\frontend_old\src\styles.css                | PostCSS        |          4 |          1 |          1 |          6 |
+| Total                                                                                                    |                |     26,523 |        189 |        449 |     27,161 |
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

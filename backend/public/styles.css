@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; background:#f3f4f6; margin:0; padding:20px; }
+#app { max-width:720px; margin:0 auto; }
+nav { margin-bottom:20px; }
+form { background:white; padding:16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.06); }
+input { width:100%; padding:8px; margin-bottom:8px; border:1px solid #ddd; border-radius:4px; }
+button { padding:10px 14px; background:#4f46e5; color:white; border:none; border-radius:6px; cursor:pointer; }
+.message { margin-top:12px; padding:10px; border-radius:6px; }
+.error { background:#fee2e2; color:#991b1b; }
+.success { background:#ecfdf5; color:#065f46; }

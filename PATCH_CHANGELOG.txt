@@ -1,0 +1,4 @@
+Patched changes:
+- Updated backend CORS to allow http://localhost:3000 with credentials (if original used cors())
+- Added request logger middleware to backend/server.js to log incoming requests
+- Removed node_modules folders from patched zip to keep size small
